@@ -4,8 +4,8 @@
 
 ## Hi 👋, 
 
-I'm a full-stack developer at `SodreLaboratorio` 
+I'm a software developer at `SodreLaboratorio` 
 
 - 🔭 I’m currently working with `C#`
 - 🌱 I’m currently learning JavaScript
-- ⚡ Languages: Java, Kotlin, Python3
+- ⚡ Languages: C#, Javascript, SQL
