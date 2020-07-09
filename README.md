@@ -8,4 +8,4 @@ I'm a software developer at `SodreLaboratorio`
 
 - 🔭 I’m currently working with `C#`
 - 🌱 I’m currently learning JavaScript
-- ⚡ Languages: C#, Javascript, SQL
+- ⚡ Languages: C#, JavaScript, TypeScript, SQL
