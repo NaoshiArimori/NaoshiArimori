@@ -4,7 +4,7 @@
 
 ## Hi 👋, 
 
-I'm a software developer at `SodreLaboratorio` 
+Web developer, currently working on the @sodrelaboratorio's team
 
 - 🔭 I’m currently working with `C#`
 - 🌱 I’m currently learning JavaScript
