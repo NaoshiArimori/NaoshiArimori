@@ -4,7 +4,7 @@
 
 ## Hi 👋, 
 
-Web developer, currently working on the @sodrelaboratorio's team
+Full Stack Developer, currently working on the @sodrelaboratorio's team
 
 - 🔭 I’m currently working with `C#`
 - 🌱 I’m currently learning JavaScript
